@@ -11,7 +11,9 @@ bentuk dashboard. Tim menggnunakan Tableau public yang dapat diakses secara grat
 
 Link tableau:
 1. Task 1: https://public.tableau.com/profile/astri.monica.sianturi#!/vizhome/PetaSebaranCovid-19diIndonesia/PetaSebaran
-2. Task 2: https://public.tableau.com/profile/pebri.sinaga8742#!/vizhome/TotalPersebaranBulanan/Sheet2?publish=yes
-3. Task 3: https://public.tableau.com/profile/mega.sari.pasaribu#!/vizhome/ProyekAkhir_16081082795900/GrafikKenaikan?publish=yes
-4. Task 4: https://public.tableau.com/profile/pebri.sinaga8742#!/vizhome/5ProvinsiDenganKasusPositifTerbanyak/Sheet1
+2. Task 2: https://public.tableau.com/profile/astri.monica.sianturi#!/vizhome/PetaResikoCovid-19diIndonesia/PetaResiko
+3. Task 3: https://public.tableau.com/profile/pebri.sinaga8742#!/vizhome/TotalPersebaranBulanan/Sheet2?publish=yes
+4. Task 4: https://public.tableau.com/profile/mega.sari.pasaribu#!/vizhome/ProyekAkhir_16081082795900/GrafikKenaikan?publish=yes
+5. Task 5: https://public.tableau.com/profile/pebri.sinaga8742#!/vizhome/5ProvinsiDenganKasusPositifTerbanyak/Sheet1
+6. Dashboard: https://public.tableau.com/profile/pebri.sinaga8742#!/vizhome/DashboardDataPersebaranCovid19diIndonesia/Dashboard1?publish=yes
 
